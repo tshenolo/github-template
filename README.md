@@ -24,6 +24,8 @@ Provide instructions and examples for use.
 ## Screenshots
 Provide a visual aspect to your project. It can be a GIF or images showcasing different features.
 
+![Screenshot](screenshot.jpg)
+
 ## Contributing
 If you want to contribute to this project, please see the [Contributing Guidelines](CONTRIBUTING.md).
 
